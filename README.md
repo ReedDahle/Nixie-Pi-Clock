@@ -8,7 +8,7 @@ Java code for a nixie tube clock built with a Raspberry Pi Zero W
 4: Scroll to the very bottom of the document using the arrow keys   
 5: add the following to the very bottom of the document  
 @reboot sudo java -jar "home/pi/Documents/NixiePieClock.jar"  
-6: Press the following keys in order to exit and save the document
+6: Press the following keys in order to exit and save the document  
 Ctrl + X  
 Y  
 Enter  
