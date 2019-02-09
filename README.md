@@ -1,5 +1,6 @@
 # Nixie-Pi-Clock
 Java code for a nixie tube clock built with a Raspberry Pi Zero W  
+clockPrgram.java contains the source code  
 
 # Installation Instructions
 1: Transfer NixiePieClock.jar to the docuents folder of your Raspberry Pi  
