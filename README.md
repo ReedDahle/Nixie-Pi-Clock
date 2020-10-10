@@ -8,7 +8,7 @@ clockPrgram.java contains the source code
 3:If it asks which editor to use, select "nano"  
 4: Scroll to the very bottom of the document using the arrow keys   
 5: add the following to the very bottom of the document  
-@reboot sudo java -jar "home/pi/Documents/NixiePieClock.jar"  
+@reboot sudo java -jar "home/pi/Documents/NixiePieClock2.jar"  
 6: Press the following keys in order to exit and save the document  
 Ctrl + X  
 Y  
